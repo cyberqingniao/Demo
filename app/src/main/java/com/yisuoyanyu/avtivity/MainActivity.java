@@ -1,9 +1,12 @@
-package com.example.demo;
+package com.yisuoyanyu.avtivity;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class MainActivity extends AppCompatActivity {
+import com.yisuoyanyu.BaseActivity;
+import com.yisuoyanyu.R;
+
+
+public class MainActivity extends BaseActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
