@@ -8,7 +8,12 @@ import android.view.Window;
 import android.view.WindowManager;
 
 import com.yisuoyanyu.R;
-
+/**
+ * 叶建平
+ * 2018-05-28
+ *
+ * 强制下载更新弹出窗口
+ * */
 public class UpdateDialog extends Dialog {
     private Context mContext;
 
