@@ -1,4 +1,4 @@
-package com.yisuoyanyu.avtivity;
+package com.yisuoyanyu.activity;
 
 import android.os.Bundle;
 
